@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const {chromium,test,expect} = require('@playwright/test');
 
 test('Browser Launch', async()=>{
@@ -7,3 +8,6 @@ test('Browser Launch', async()=>{
     await page1.goto('https://www.amazon.in/');
 
 });
+=======
+
+>>>>>>> c77eb1688abbf4833a1802df0a596093cc294dcd
